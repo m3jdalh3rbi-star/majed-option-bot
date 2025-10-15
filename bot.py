@@ -2,6 +2,7 @@
 import os
 import json
 import logging
+import imghdr
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
