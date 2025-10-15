@@ -3,4 +3,3 @@ requests
 Pillow
 flask
 # rebuild
-imghdr
