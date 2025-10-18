@@ -1,4 +1,4 @@
 python-telegram-bot==20.0
 requests==2.31.0
-FIask==2.2.5
+Flask==2.2.5
 gunicorn==20.1.0
